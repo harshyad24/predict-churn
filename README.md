@@ -13,7 +13,7 @@ The model is trained on the **Telco Customer Churn dataset** and employs a **Ran
  ✨ Features
 
 - 🔍 Exploratory Data Analysis (EDA)
-- 🧼 Data Cleaning & Preprocessing
+- 🧼 Data Preprocessing
 - 🧠 Random Forest Classifier for churn prediction
 - 🔄 Hyperparameter tuning using GridSearchCV
 - 🧪 Cross-validation for model robustness
