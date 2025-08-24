@@ -1,23 +1,10 @@
 
- 📌 Project Description
- 
- 🏦 Bank Churn Prediction
-Customer churn refers to the loss of clients or customers. Predicting churn helps businesses understand which customers are at risk of leaving, enabling proactive retention strategies. This project uses supervised learning to build a model that predicts customer churn based on historical data.A Machine Learning project to predict whether a customer is likely to churn using the Customer Churn dataset from Kaggle. This project implements a Random Forest Classifier, includes hyperparameter tuning and cross-validation, and provides visual performance evaluation metrics.
-
 # 🏦 Banking Customer Churn Prediction Analysis
 
-## 📋 Table of Contents
-- [Project Overview](#project-overview)
-- [Business Problem](#business-problem)
-- [Dataset Description](#dataset-description)
-- [Case Study Results](#case-study-results)
-- [Key Findings](#key-findings)
-- [Business Impact](#business-impact)
-- [Technical Implementation](#technical-implementation)
-- [Model Performance](#model-performance)
-- [Installation & Usage](#installation--usage)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
+ 📌 Project Description
+ 
+Customer churn refers to the loss of clients or customers. Predicting churn helps businesses understand which customers are at risk of leaving, enabling proactive retention strategies. This project uses supervised learning to build a model that predicts customer churn based on historical data.
+
 
 ---
 
