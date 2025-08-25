@@ -23,7 +23,7 @@ This project presents a comprehensive machine learning solution for predicting c
 ## 🚨 Business Problem
 
 ### The Challenge
-**XYZ Bank** was experiencing a **20.4% annual customer churn rate**, resulting in:
+**Bank** was experiencing a **20.4% annual customer churn rate**, resulting in:
 - 💸 **$12M annual revenue loss** from churned customers
 - 📈 **5x higher acquisition costs** compared to retention costs  
 - 😞 **Declining customer lifetime value** across all segments
